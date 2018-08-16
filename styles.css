@@ -1,0 +1,64 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+  color: orange;
+}
+
+nav a {
+  text-decoration: none;
+  color: blue;
+  font-weight: bold;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+#saveit {
+  background-color: #F7F7F7;
+}
+
+.savebees li {
+  list-style-type: square;
+  font-style: italic;
+  margin-left: -20px;
+  font-size: 18px;
+}
+
+.selfinfo li {
+  list-style-type: none;
+  margin-left: -40px;
+  font-size: 30px;
+}
+
+.gallery {
+  margin: 15px;
+  border: 2px solid #ccc;
+  width: 400px;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.creator {
+  margin-left: 15px;
+  color: grey;
+}
+
+img {
+  width: 350px;
+}
+
+.me {
+  box-shadow: 10px 10px 5px grey;
+  border-radius: 50px;
+}
